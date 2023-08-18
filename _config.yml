@@ -44,7 +44,7 @@ author:
 
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
 
 # Add links to the sidebar.
