@@ -36,11 +36,11 @@ logo: /assets/img/Manjul_Sharma_photo.jpg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name: Dan Tsekhanskiy
-  email: dan@tseknet.com
+  name: Manjul Sharma
+  email: manjul.sharma@colorado.edu
   # # Used by `jekyll-seo-tag`:
-  twitter: tseknet
-  rss: true
+  #twitter: tseknet
+  #rss: true
 
 share-links-active:
   twitter: true
@@ -130,7 +130,7 @@ collections:
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
-tinyletter: TsekNet
+#tinyletter: TsekNet
 
 
 ########################################################################################################################
@@ -270,8 +270,8 @@ google_site_verification: UA-175070505-1
 # yandex:  <verification-id>
 
 # Used for twitter cards
-twitter:
-  username:  tseknet
+##twitter:
+##  username:  tseknet
 
 # Used for facebook open graph
 # facebook:
@@ -281,8 +281,8 @@ twitter:
 
 # Used on index and about sites
 social:
-  name: Dan Tsekhanskiy
+  name: Manjul Sharma
 links:
-- https://twitter.com/TsekNet
-- https://github.com/TsekNet
-- https://www.linkedin.com/in/TsekNet
+#- https://twitter.com/TsekNet
+- https://github.com/smanjul
+- https://www.linkedin.com/in/manjul-sharma-b4a89118/
