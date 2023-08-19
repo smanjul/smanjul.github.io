@@ -43,7 +43,7 @@ author:
   #rss: true
 
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
   linkedin: true
   github: true
