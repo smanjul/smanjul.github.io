@@ -210,7 +210,7 @@ download:
 # 054: Google Scholar
 googlescholar:
   Weight: 54
-  Template: https://scholar.google.com/citations?%v
+  Template: https://scholar.google.com/citations?
   Title: Google Scholar
   Icon:
     Simpleicons: googlescholar
