@@ -206,3 +206,19 @@ keybase:
 download:
   name: Download
   icon: icon-box-add
+  
+# 054: Google Scholar
+googlescholar:
+  Weight: 54
+  Template: https://scholar.google.com/citations?%v
+  Title: Google Scholar
+  Icon:
+    Simpleicons: googlescholar
+
+# 055: ResearchGate
+researchgate:
+  Weight: 55
+  Prefix: https://www.researchgate.net/profile/
+  Title: ResearchGate
+  Icon:
+    Class: fab fa-researchgate fa-fw
