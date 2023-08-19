@@ -2,11 +2,11 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name: Dan Tsekhanskiy
-  linkedin: tseknet
-  twitter: tseknet
-  github: tseknet
-  email: dan@tseknet.com
+  name: Manjul Sharma
+  linkedin: manjul-sharma-b4a89118
+  #twitter: tseknet
+  github: smanjul
+  email: manjul.sharma@colorado.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
