@@ -46,6 +46,8 @@ share-links-active:
   twitter: true
   facebook: false
   linkedin: true
+  github: true
+  googlescholar: true
 
 # Add links to the sidebar.
 menu:
