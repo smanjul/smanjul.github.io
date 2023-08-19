@@ -216,8 +216,8 @@ googlescholar:
 
 # 055: ResearchGate
 researchgate:
-  Weight: 55
-  Prefix: https://www.researchgate.net/profile/
+  #Weight: 55 
   Title: ResearchGate
   Icon:
     Class: fab fa-researchgate fa-fw
+  prepend: 'https://www.researchgate.net/profile/'
