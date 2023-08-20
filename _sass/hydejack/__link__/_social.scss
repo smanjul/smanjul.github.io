@@ -26,10 +26,7 @@
 
 
 .sidebar-social {
-  @media print {
-    display: none;
-  }
-  $researchgate-color: #00d09d;
+    $researchgate-color: #00d09d;
   $google-scholar-color: #4788ee;
 }
 .ai-researchgate {
@@ -40,5 +37,8 @@
 .ai-google-scholar {
   padding: 5px;
   @include social-media-icon($google-scholar-color, $icon-transition-time);
+  @media print {
+    display: none;
+  }
 }
 
