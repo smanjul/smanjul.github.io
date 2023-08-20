@@ -207,21 +207,19 @@ download:
   name: Download
   icon: icon-box-add
   
-# 054: Google Scholar
 google-scholar:
   Title: Google Scholar
   Icon:
     #Simpleicons: google-scholar
     Class: ai ai-google-scholar
-    #aria-hidden: "true"
+    #aria-hidden: true
   prepend: 'https://scholar.google.com/citations?'
 
-# 055: ResearchGate
 researchgate:
   #Weight: 55 
   Title: ResearchGate
   Icon:
     #Class: fab fa-researchgate fa-fw
-    Class: "ai ai-researchgate"
-    #aria-hidden: "true"
+    Class: ai ai-researchgate
+    #aria-hidden: true
   prepend: 'https://www.researchgate.net/profile/'
