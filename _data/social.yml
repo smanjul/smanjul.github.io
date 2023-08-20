@@ -211,7 +211,9 @@ download:
 google-scholar:
   Title: Google Scholar
   Icon:
-    Simpleicons: google-scholar
+    #Simpleicons: google-scholar
+    Class: ai ai-google-scholar
+    aria-hidden: "true"
   prepend: 'https://scholar.google.com/citations?'
 
 # 055: ResearchGate
@@ -219,5 +221,7 @@ researchgate:
   #Weight: 55 
   Title: ResearchGate
   Icon:
-    Class: fab fa-researchgate fa-fw
+    #Class: fab fa-researchgate fa-fw
+    Class: "ai ai-{{ researchgate }}"
+    aria-hidden: "true"
   prepend: 'https://www.researchgate.net/profile/'
