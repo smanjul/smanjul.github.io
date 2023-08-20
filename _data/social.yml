@@ -208,10 +208,10 @@ download:
   icon: icon-box-add
   
 # 054: Google Scholar
-googlescholar:
+google-scholar:
   Title: Google Scholar
   Icon:
-    Simpleicons: googlescholar
+    Simpleicons: google-scholar
   prepend: 'https://scholar.google.com/citations?'
 
 # 055: ResearchGate
