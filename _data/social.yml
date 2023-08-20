@@ -222,6 +222,6 @@ researchgate:
   Title: ResearchGate
   Icon:
     #Class: fab fa-researchgate fa-fw
-    Class: "ai ai-{{ researchgate }}"
+    Class: "ai ai-researchgate"
     aria-hidden: "true"
   prepend: 'https://www.researchgate.net/profile/'
