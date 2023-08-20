@@ -213,7 +213,7 @@ google-scholar:
   Icon:
     #Simpleicons: google-scholar
     Class: ai ai-google-scholar
-    aria-hidden: "true"
+    #aria-hidden: "true"
   prepend: 'https://scholar.google.com/citations?'
 
 # 055: ResearchGate
@@ -223,5 +223,5 @@ researchgate:
   Icon:
     #Class: fab fa-researchgate fa-fw
     Class: "ai ai-researchgate"
-    aria-hidden: "true"
+    #aria-hidden: "true"
   prepend: 'https://www.researchgate.net/profile/'
