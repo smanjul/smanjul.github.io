@@ -13,16 +13,7 @@ image: /assets/img/logo.png
 Learning is my biggest motivator.
 {:.faded}
 
-SRE with an unhealthy addiction to automation.
-
-With over eight years of experience in IT, my primary areas of focus are
-PowerShell, Python, automation, CI/CD, infrastructure as code,
-imaging/provisioning, configuration management, and championing SRE practices.
-
-I work on the [WinOps SRE](https://github.com/google/winops) team at Google,
-helping maintain our open source Windows imaging tool called
-[Glazier](https://github.com/google/glazier) and BeyondCorp imaging utility
-called [Fresnel](https://github.com/google/fresnel).
+I'm a Research Faculty at the Department of Applied Mathematics, University of Colorado Boulder interested in Fluids. In particular, rotating flows, convective flows, and double-diffusive flows (my current research topic), with an application to geophysical flows. 
 
 I ❤️ open source. I aim to work entirely on open-source projects both
 professionally and personally.
