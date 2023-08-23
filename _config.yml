@@ -52,12 +52,12 @@ share-links-active:
 
 # Add links to the sidebar.
 menu:
-  - title: Blog
-    url: /blog/
-  - title: Research
-    url: /research/
   - title: About
     url: /about/
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
 
 copyright: ''
 
