@@ -211,7 +211,7 @@ google-scholar:
   Title: Google Scholar
   Icon:
     #Simpleicons: google-scholar
-    <i class="ai ai-google-scholar"></i>
+    Class="ai ai-google-scholar"
     #Class: ai ai-google-scholar
     #aria-hidden: true
   prepend: 'https://scholar.google.com/citations?'
