@@ -30,12 +30,12 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    linkedin: manjul-sharma-b4a89118
-    #twitter: tseknet
     github: smanjul
     google-scholar: user=O0spKioAAAAJ&hl=en
     researchgate: Manjul-Sharma-2
     email: manjul.sharma@colorado.edu
+    linkedin: manjul-sharma-b4a89118
+    #twitter: tseknet
 # Another author (optional)
 # author2:
 #   name: <firtname> <lastname>
