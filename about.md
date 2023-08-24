@@ -1,8 +1,10 @@
 ---
-layout: about
-title: >
-  > whoami
-image: /assets/img/Manjul_Sharma_photo.png
+layout: welcome
+title: About
+permalink: /about/
+more_posts: posts.md
+sidebar: true
+order: 1
 ---
 
 - Table of Contents
