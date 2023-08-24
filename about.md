@@ -2,7 +2,7 @@
 layout: about
 title: >
   > whoami
-image: /assets/img/logo.png
+image: /assets/img/Manjul_Sharma_photo.png
 ---
 
 - Table of Contents
