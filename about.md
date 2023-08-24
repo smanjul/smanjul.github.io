@@ -18,15 +18,6 @@ I'm a Research Faculty at the Department of Applied Mathematics, University of C
 I ❤️ open source. I aim to work entirely on open-source projects both
 professionally and personally.
 
-## Travel
-
-When I think about what truly makes me happy — it's travel.
-{:.faded}
-
-At 22, I set the goal of traveling to 30 countries before turning 30.
-At 22, I'd only been to 1 country outside the US. By 26, I traveled to 29 countries in
-4 years, and hit my goal well ahead of time. Onwards to experiencing more
-cultures—maybe *40 countries before 40*?
 
 ## Around the Web
 
