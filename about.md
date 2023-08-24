@@ -19,20 +19,11 @@ I ❤️ open source. I aim to work entirely on open-source projects both
 professionally and personally.
 
 
-## Around the Web
-
-- [Top 60 PowerShell Blogs 2020](https://blog.feedspot.com/powershell_blogs/)
-- [Featured on Hydejack (this website's theme)](https://hydejack.com/showcase/tseknet)
-- [Featured on powershell.org](https://powershell.org/2020/09/icymi-powershell-week-of-04-september-2020/)
-- [Ridicurious Editors Pick](https://ridicurious.com/2020/08/28/weekly-newsletter-powershell-digest-006/)
-
 ## Contact
 
 Want to get in touch? Find an error in an article?
 {:.faded}
 
-The best way to reach me is via twitter [@tseknet](https://twitter.com/tseknet).
-Other ways to contact me can be found on the sidebar of this website.
 
 ## Disclaimer
 
