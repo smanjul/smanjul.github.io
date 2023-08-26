@@ -3,7 +3,7 @@ layout: home
 #title: 👋
 sitemap: true
 cover: true
-permalink: /
+permalink: /about/
 ---
 <br>
 <br>
