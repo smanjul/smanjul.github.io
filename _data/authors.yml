@@ -12,11 +12,11 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about: >
-    SRE with an unhealthy addiction to automation. With over five years of
-    experience in IT, my primary areas of focus are PowerShell, Python,
-    automation, CI/CD, infrastructure as code, imaging/provisioning, and
-    configuration management.
+  #about: >
+    #SRE with an unhealthy addiction to automation. With over five years of
+    #experience in IT, my primary areas of focus are PowerShell, Python,
+    #automation, CI/CD, infrastructure as code, imaging/provisioning, and
+    #configuration management.
 
   # This photo will be used in the about section
   picture:
