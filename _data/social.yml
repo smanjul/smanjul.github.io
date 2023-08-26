@@ -212,7 +212,7 @@ google-scholar:
   Icon:
     #Simpleicons: google-scholar
     #Class="ai ai-google-scholar"
-    #Class: ai ai-google-scholar
+    Class: ai ai-google-scholar
     #aria-hidden: true
   prepend: 'https://scholar.google.com/citations?'
 
