@@ -211,13 +211,12 @@ google-scholar:
   Title: Google Scholar
   Icon:
     #Simpleicons: google-scholar
-    Class="ai ai-google-scholar"
+    #Class="ai ai-google-scholar"
     #Class: ai ai-google-scholar
     #aria-hidden: true
   prepend: 'https://scholar.google.com/citations?'
 
 researchgate:
-  #Weight: 55 
   Title: ResearchGate
   Icon:
     #Class: fab fa-researchgate fa-fw
