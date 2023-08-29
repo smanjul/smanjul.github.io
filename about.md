@@ -25,7 +25,6 @@ I obtained my Ph.D. in 2020 under the supervision of Prof. A. Sameen in the Depa
 ## Collaborations
 
 Below is a list of past and present collaborators (in the reverse chronology)
-{:.faded}
 
 > - Prof. Keith Julien (University of Colorado, Boulder)
 > - Prof. Edgar Knobloch (University of California, Berkeley)
