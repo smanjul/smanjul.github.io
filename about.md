@@ -11,7 +11,7 @@ order: 1
 ## Work
 
 A bit about myself
-<!{:.faded}>
+{:.faded}
 
 Since August 2021, I have been a Research Faculty at the Department of Applied Mathematics at CU Boulder (University of Colorado at Boulder). Here, I am working with Prof. Keith Julien, in collaboration with Prof. Edgar Knobloch (Physics Department, UC Berkeley) and Prof. Chang Liu (UConn).
 
