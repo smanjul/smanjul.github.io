@@ -27,13 +27,13 @@ I obtained my Ph.D. in 2020 under the supervision of Prof. A. Sameen in the Depa
 Below is a list of past and present collaborators (in the reverse chronology)
 
 - Prof. Keith Julien (University of Colorado, Boulder)
-> - Prof. Edgar Knobloch (University of California, Berkeley)
-> - Prof. Chang Liu (University of Connecticut, Connecticut)
+- Prof. Edgar Knobloch (University of California, Berkeley)
+- Prof. Chang Liu (University of Connecticut, Connecticut)
 
-> - Dr. Shesh Dhurandhar (IIT Madras)
-> - Dr. R. Vishnu (OIST, Japan)
-> - Dr. Vishnu Mohan (Newcastle University)
+- Dr. Shesh Dhurandhar (IIT Madras)
+- Dr. R. Vishnu (OIST, Japan)
+- Dr. Vishnu Mohan (Newcastle University)
 
-> - Prof. A. Sameen (IIT Madras)
-> - Prof. Manikandan Mathur (IIT Madras) 
+- Prof. A. Sameen (IIT Madras)
+- Prof. Manikandan Mathur (IIT Madras) 
 
