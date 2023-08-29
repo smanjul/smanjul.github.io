@@ -1,7 +1,7 @@
 ---
 layout: tag-list
 title: Research
-menu: false
+menu: true
 description: >
   Posts about research
 ---
