@@ -38,7 +38,3 @@ Dr. Vishnu Mohan (Newcastle University)
 Prof. A. Sameen (IIT Madras)
 Prof. Manikandan Mathur (IIT Madras) 
 
-
-## Disclaimer
-
-The opinions stated here are my own, not necessarily those of my employer.
