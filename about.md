@@ -8,20 +8,18 @@ sidebar: true
 order: 1
 ---
 
-!<--
-- Table of Contents
-<!{:toc}>
--->
-
 ## Work
 
-<!Learning is my biggest motivator.>
+A bit about myself
 <!{:.faded}>
 
-I'm a Research Faculty at the Department of Applied Mathematics, University of Colorado Boulder, interested in Fluids. In particular, rotating flows, convective flows, and double-diffusive flows (my current research topic), with an application to geophysical flows. 
+Since August 2021, I have been a Research Faculty at the Department of Applied Mathematics at CU Boulder (University of Colorado at Boulder). Here, I am working with Prof. Keith Julien, in collaboration with Prof. Edgar Knobloch (Physics Department, UC Berkeley) and Prof. Chang Liu (UConn).
 
-I ❤️ open source. I aim to work entirely on open-source projects both
-professionally and personally.
+From 2020 to July 2021, I was a Post-doctoral researcher in the Department of Aerospace Engineering at IIT Madras (Indian Institute of Technology Madras, Chennai, India).
+
+Before that, I was a Project Officer in the Department of Aerospace Engineering at IIT Madras.
+
+I obtained my Ph.D. in 2020 under the supervision of Prof. A. Sameen in the Department of Aerospace Engineering, IIT Madras. For my thesis, I studied vortex breakdown in vortices with axial flows.
 
 
 ## Contact
