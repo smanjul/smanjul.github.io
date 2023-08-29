@@ -8,8 +8,6 @@ sidebar: true
 order: 1
 ---
 
-!<-- ## Work -->
-
 A bit about myself
 {:.faded}
 
