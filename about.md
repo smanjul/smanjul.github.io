@@ -33,5 +33,6 @@ Below is a list of past and present collaborators (in the reverse chronology)
 - Dr. Vishnu Mohan (Newcastle University)
 
 - Prof. A. Sameen (IIT Madras)
-- Prof. Manikandan Mathur (IIT Madras) 
+- Prof. Manikandan Mathur (IIT Madras)
+- Prof. Vinod Narayanan (IIT Gandhinagar)
 
