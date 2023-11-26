@@ -19,6 +19,6 @@ I'm a Research Faculty at the [Department of Applied Mathematics, University of 
 
 <!--posts-->
 
-See [Posts](/posts/) for more
+See [Research](/posts/) for more
 {:.read-more}
 -->
