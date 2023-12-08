@@ -9,7 +9,9 @@ This repo hosts [smanjul.com](https://smanjul.com), which leverages the
 
 [//]: # (## Testing Changes)
 
-[//]: # (See my blog post about [getting started](https://tseknet.com/blog/startblogging) with Netlify and Jekyll.)
+<!---
+See my blog post about [getting started](https://tseknet.com/blog/startblogging) with Netlify and Jekyll.
+-->
 
 ## Contributing
 
