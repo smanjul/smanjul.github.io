@@ -7,9 +7,9 @@ This repo hosts [smanjul.com](https://smanjul.com), which leverages the
 [Hydejack](https://hydejack.com) Jekyll theme in tandem with
 [Netlify](https://Netlify.com) to serve this static website.
 
-[//]: <> (## Testing Changes)
+[//]: # (## Testing Changes)
 
-[//]: <> (See my blog post about [getting started](https://tseknet.com/blog/startblogging) with Netlify and Jekyll.)
+[//]: # (See my blog post about [getting started](https://tseknet.com/blog/startblogging) with Netlify and Jekyll.)
 
 ## Contributing
 
