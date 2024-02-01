@@ -17,8 +17,7 @@ order: 1
 
 * [**Manjul Sharma** *et al.*. Near-wall vortical structures in domains with and without curved surfaces. *Phil. Trans. R. Soc. A*, Royal Society Publishing, 381 (2246), 2023, 20220136](https://doi.org/10.1098/rsta.2022.0136){:target="_blank"}
 
-* [R. Vishnu, **Manjul Sharma**, and A. Sameen. Effect of heating on topology of vortex breakdown in Vogel-Escudier flow. *Phys. Fluids*, AIP Publishing, 33(10), 2021, 107111 **<span style=‘color: blue;’>(Editor’s Pick).</span>
-**](https://doi.org/10.1063/5.0065134){:target="_blank"}
+* [R. Vishnu, **Manjul Sharma**, and A. Sameen. Effect of heating on topology of vortex breakdown in Vogel-Escudier flow. *Phys. Fluids*, AIP Publishing, 33(10), 2021, 107111 <span style=‘color: red;’>(Editor’s Pick).</span>](https://doi.org/10.1063/5.0065134){:target="_blank"}
 * [**Manjul Sharma** and A. Sameen. Synopsis of Vogel-Escudier flow. *Phys. Fluids*, AIP Publishing, 33(6), 2021, 064105](https://doi.org/10.1063/5.0053847){:target="_blank"}
 
 * [**Manjul Sharma** and A. Sameen. On the correlation between vortex breakdown bubble and planar helicity in Vogel-Escudier flow. *J. Fluid Mech.*, Cambridge University Press, 2020, 888:A6](https://doi.org/10.1017/jfm.2020.43){:target="_blank"}
