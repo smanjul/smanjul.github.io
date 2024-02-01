@@ -16,16 +16,16 @@ description: Fluid Mechanics
 tagline: For the love of Fluids
 
 keywords: [
-  'PowerShell',
-  'SCCM',
-  'pwsh',
-  'SysAdmin',
-  'Systems Administrator',
-  'DevOps',
-  'SRE',
-  'Python',
-  'Tutorials',
-  'Tips'
+  'Fluid Mechanics',
+  'Turbulence',
+  'CFD',
+  'Convective flows',
+  'Double-diffusive flows',
+  'Salt finger convection',
+  'High Performance Computing',
+  'Geophysical flows',
+  'Vortex dominated flows',
+  'Aerodynamics'
   ]
 
 # A (square) logo for the sidebar.
