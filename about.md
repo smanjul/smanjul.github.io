@@ -30,7 +30,7 @@ Below is a list of past and present collaborators (in the reverse chronology)
 
 - Dr. Shesh Dhurandhar (IIT Madras)
 - [Dr. R. Vishnu](https://agnithepower.wordpress.com/welcome/){:target="_blank"} (OIST, Japan)
-- Dr. Vishnu Mohan (Newcastle University)
+- [Dr. Vishnu Mohan](https://vishnu-mohan-1993.github.io/){:target="_blank"} (Newcastle University)
 
 - [Prof. A. Sameen](https://home.iitm.ac.in/sameen/){:target="_blank"} (IIT Madras)
 - [Prof. Manikandan Mathur](https://sites.google.com/site/mathur2m/home){:target="_blank"} (IIT Madras)
