@@ -22,6 +22,6 @@ order: 1
 
 * [**Manjul Sharma** and A. Sameen. On the correlation between vortex breakdown bubble and planar helicity in Vogel-Escudier flow. *J. Fluid Mech.*, Cambridge University Press, 2020, 888:A6](https://doi.org/10.1017/jfm.2020.43){:target="_blank"}
 
-## Conferences
-
 * [**Manjul Sharma** and A. Sameen. Axisymmetric vortex breakdown: a barrier to mixing. *Phys. Scr.*, IOP Publishing, 94(5), 2019, 054005](https://doi.org/10.1088/1402-4896/ab0097)
+
+## Conferences
