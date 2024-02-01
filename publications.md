@@ -58,4 +58,4 @@ order: 1
 
 * **Manjul Sharma**, A. Sameen, and Manikandan Mathur, Lagrangian coherent structures resulting from three-dimensional axial vortex breakdown, *Turbulent Mixing and Beyond (TMB), 6th International Conference*, ICTP, Trieste, Italy, 2017
 
-* R. Vishnu, **Manjul Sharma**, and A. Sameen, DNS of lid rotating Rayleigh-Benard convection, *Turbulent Mixing and Beyond (TMB), 6th International Conference*, ICTP, Trieste, Italy.	2017
+* R. Vishnu, **Manjul Sharma**, and A. Sameen, DNS of lid rotating Rayleigh-Benard convection, *Turbulent Mixing and Beyond (TMB), 6th International Conference*, ICTP, Trieste, Italy, 2017
