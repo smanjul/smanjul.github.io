@@ -4,7 +4,7 @@ layout: home
 title: Research
 permalink: /research/
 sidebar: true
-order: 1
+order: 2
 ---
 
 [comment]: <> Click on these icons for the paper <img src="images/file-cloud-download.png"> to download pdf, or <img src="images/media.png"> for media coverage.
