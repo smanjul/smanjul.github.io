@@ -1,5 +1,9 @@
-﻿---
-layout: tag
+---
+layout: tags
 title: Tags
-description: List of all tags used for blog posts, sorted by tag, then year.
+permalink: /tags/
+sidebar: true
+order: 4
+description: >
+  List of all categories & tags of blog.
 ---
