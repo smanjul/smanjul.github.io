@@ -5,7 +5,7 @@ title: Publications
 permalink: /publications/
 #more_posts: posts.md
 sidebar: true
-order: 1
+order: 3
 ---
 
 [comment]: <> Click on these icons for the paper <img src="images/file-cloud-download.png"> to download pdf, or <img src="images/media.png"> for media coverage.
