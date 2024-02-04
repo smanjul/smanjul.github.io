@@ -121,7 +121,7 @@ kramdown:
 
 collections:
   featured_tags:
-    permalink: /tag/:name
+    permalink: /tags/:name
     output: true
 
 ########################################################################################################################
