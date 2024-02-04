@@ -8,7 +8,9 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", github: "jekyll/jekyll"
+#gem "jekyll", github: "jekyll/jekyll"
+#gem "jekyll-theme-hydejack"
+gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
 
 # IMPORTANT: The followign gem is used to compile math formulas to
 # KaTeX during site building.
@@ -22,7 +24,7 @@ gem "jekyll", github: "jekyll/jekyll"
 #    For details, see <https://github.com/kramdown/math-katex#documentation>
 #
 # If you're using the MathJax math engine instead, free to remove the line below:
-gem "kramdown-math-katex"
+#gem "kramdown-math-katex"
 
 group :jekyll_plugins do
   gem "jekyll-default-layout", github: "benbalter/jekyll-default-layout", branch: "main"
