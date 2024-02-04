@@ -1,11 +1,9 @@
 ---
 #layout: welcome
-#layout: home
-layout: list
-type: category
+layout: home
 title: Research
-slug: research
-#permalink: /research/
+permalink: /research/
+#more_posts: posts.md
 sidebar: true
 order: 2
 ---
