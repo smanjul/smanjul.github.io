@@ -24,15 +24,16 @@ I obtained my Ph.D. in 2020 under the supervision of Prof. A. Sameen in the Depa
 
 Below is a list of past and present collaborators (in the reverse chronology)
 
+- [Prof. Chang Liu](https://me.engr.uconn.edu/blog/faculty/liu-chang/){:target="_blank"} (University of Connecticut, Connecticut)
 - [Prof. Keith Julien](https://www.colorado.edu/amath/keith-julien-0){:target="_blank"} (University of Colorado, Boulder)
 - [Prof. Edgar Knobloch](https://physics.berkeley.edu/people/faculty/edgar-knobloch){:target="_blank"} (University of California, Berkeley)
-- [Prof. Chang Liu](https://me.engr.uconn.edu/blog/faculty/liu-chang/){:target="_blank"} (University of Connecticut, Connecticut)
 
 - Dr. Shesh Dhurandhar (IIT Madras)
-- [Dr. R. Vishnu](https://agnithepower.wordpress.com/welcome/){:target="_blank"} (OIST, Japan)
 - [Dr. Vishnu Mohan](https://vishnu-mohan-1993.github.io/){:target="_blank"} (Newcastle University)
+- [Dr. R. Vishnu](https://agnithepower.wordpress.com/welcome/){:target="_blank"} (OIST, Japan)
 
-- [Prof. A. Sameen](https://home.iitm.ac.in/sameen/){:target="_blank"} (IIT Madras)
-- [Prof. Manikandan Mathur](https://sites.google.com/site/mathur2m/home){:target="_blank"} (IIT Madras)
 - [Prof. Vinod Narayanan](https://iitgn.ac.in/faculty/me/16-vinod){:target="_blank"} (IIT Gandhinagar)
+- [Prof. Manikandan Mathur](https://sites.google.com/site/mathur2m/home){:target="_blank"} (IIT Madras)
+- [Prof. A. Sameen](https://home.iitm.ac.in/sameen/){:target="_blank"} (IIT Madras)
+
 
