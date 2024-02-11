@@ -49,6 +49,7 @@ share-links-active:
   github: true
   google-scholar: true
   researchagte: true
+  orcid: true
 
 # Add links to the sidebar.
 menu:
