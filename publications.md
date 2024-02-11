@@ -24,6 +24,11 @@ order: 3
 
 * [**Manjul Sharma** and A. Sameen. Axisymmetric vortex breakdown: a barrier to mixing. *Phys. Scr.*, IOP Publishing, 94(5), 054005, 2019.](https://doi.org/10.1088/1402-4896/ab0097){:target="_blank"}
 
+## Conference Proceedings
+
+* [S. N. Dhurandhar, V. Mohan, **Manjul Sharma**, and A. Sameen. Effect of rarefaction on axial vortex using direct simulation
+Monte Carlo. *AIP Conf. Proc.* 2996, 080016, 2024.](https://doi.org/10.1063/5.0187617){:target="_blank"}
+
 ## Conferences
 
 * C. Liu, **Manjul Sharma**, K. Julien, E. Knobloch, Fixed-flux Rayleigh-Benard convection in doubly-periodic domains, *76th Annual Meeting of the American Physical Society Division of Fluid Mechanics (APS-DFD)*, Washington DC, USA, 2023.
