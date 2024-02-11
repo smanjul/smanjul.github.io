@@ -9,6 +9,7 @@ author1:
   google-scholar: user=O0spKioAAAAJ&hl=en
   researchgate: Manjul-Sharma-2
   email: manjul.sharma@colorado.edu
+  orcid: https://orcid.org/my-orcid?orcid=0000-0003-1845-2585
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -35,6 +36,7 @@ author1:
     researchgate: Manjul-Sharma-2
     email: manjul.sharma@colorado.edu
     linkedin: manjul-sharma-b4a89118
+    orcid: https://orcid.org/my-orcid?orcid=0000-0003-1845-2585
     #twitter: tseknet
 # Another author (optional)
 # author2:
