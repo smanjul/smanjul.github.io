@@ -57,7 +57,7 @@ Monte Carlo. *AIP Conf. Proc.* 2996, 080016, 2024.](https://doi.org/10.1063/5.01
 
 * R. Vishnu, **Manjul Sharma**, and A. Sameen, Bifurcation analysis of axial vortices under unstable thermal gradients, *Conference on Nonlinear Systems and Dynamics (CNSD)*, New Delhi, India, 2018.
 
-* **Manjul Sharma**, R. Vishnu, and A. Sameen, Bifurcation characteristics of flow inside a cylinder with a rotating lid, *6th Asian Symposium on Computational Heat Transfer and Fluid Flow*, IIT Madras, Chennai, India, 2017.
+* **Manjul Sharma**, R. Vishnu, and A. Sameen, Bifurcation characteristics of flow inside a cylinder with a rotating lid, *6th Asian Symposium on Computational Heat Transfer and Fluid Flow (ASCHT)*, IIT Madras, Chennai, India, 2017.
 
 * R. Vishnu, **Manjul Sharma**, and A. Sameen, Numerical study on effect of lid rotation on convective heat transfer in Rayleigh-Benard convection, *6th Asian Symposium on Computational Heat Transfer and Fluid Flow (ASCHT)*, IIT Madras, Chennai, India, 2017.
 
