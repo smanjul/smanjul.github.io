@@ -7,7 +7,7 @@ sidebar: true
 order: 2
 ---
 
- <img src="/assets/img/Research.png">
+ <img src="/assets/img/Research.png" usemap="#workmap">
 
  <map name="workmap">
   <area shape="rect" coords="34,44,270,350" href="/vorticity_dominated/">
