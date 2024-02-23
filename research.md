@@ -7,6 +7,6 @@ sidebar: true
 order: 2
 ---
 
- <img src="/assets/img/Manjul_Sharma_photo.jpg">
+ <img src="/assets/img/Research.png">
 
 ## Details coming soon ...
