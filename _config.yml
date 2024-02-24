@@ -25,12 +25,13 @@ keywords: [
   'High Performance Computing',
   'Geophysical flows',
   'Vortex dominated flows',
-  'Aerodynamics'
+  'Aerodynamics',
+  'Multiphase flows',
+  'Particle-laden flows'
   ]
 
 # A (square) logo for the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-#logo: /assets/img/logo.png
 logo: /assets/img/Manjul_Sharma_photo.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
@@ -74,17 +75,19 @@ permalink: /blog/:title
 
 # Sidebar image and theme color of the site.
 accent_image: /assets/img/sidebar-bg.jpg
-accent_color: rgb(79,177,186)
+#accent_color: rgb(79,177,186)
+accent_color:          '#4fb1ba'
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color: rgb(8,46,57)
+# theme_color: rgb(8,46,57)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
 # google_fonts: Roboto+Slab:700|Noto+Sans:400,400i,700,700i
-google_fonts: JetBrains+Mono|Nanum+Gothic+Coding
+# google_fonts: JetBrains+Mono|Nanum+Gothic+Coding
+google_fonts:          Roboto+Slab:400|Noto+Sans:400,400i,700,700i
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
@@ -95,7 +98,7 @@ font: Noto Sans, Helvetica, Arial, sans-serif
 font_heading: Roboto Slab, Helvetica, Arial, sans-serif
 
 # The font used for code blocks. Expects a string that is a valid CSS font-family value.
-font_code: Fira Code, Menlo, Monaco, Consolas, monospace;
+#font_code: Fira Code, Menlo, Monaco, Consolas, monospace;
 
 defaults:
   # Don't include documents in assets in the sitemap
