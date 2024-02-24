@@ -13,7 +13,7 @@ order: 2
   <area shape="rect" coords="90,0,275,250" href="/vorticity_dominated/">
   <area shape="rect" coords="375,50,475,375" href="/multiphase/">
   <area shape="rect" coords="60,275,325,475" href="/geophysical/">
-  <area shape="rect" coords="540,100,740,325" href="/hpc/">
+  <area shape="rect" coords="530,100,745,325" href="/hpc/">
  </map>
 
 ## Details coming soon ...
