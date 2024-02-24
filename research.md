@@ -12,7 +12,7 @@ order: 2
  <map name="workmap">
   <area shape="rect" coords="90,0,275,250" href="/vorticity_dominated/">
   <area shape="rect" coords="2031,291,2450,1984" href="/multiphase/">
-  <area shape="rect" coords="60,150,350,500" href="/geophysical/">
+  <area shape="rect" coords="60,125,350,500" href="/geophysical/">
   <area shape="rect" coords="2830,575,3949,1697" href="/hpc/">
  </map>
 
