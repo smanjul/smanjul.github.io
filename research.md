@@ -10,7 +10,7 @@ order: 2
  <img src="/assets/img/Research.png" usemap="#workmap">
 
  <map name="workmap">
-  <area shape="rect" coords="6,516, 138,1377" href="/vorticity_dominated/">
+  <area shape="rect" coords="534,27, 1365,1320" href="/vorticity_dominated/">
   <area shape="rect" coords="2025,285, 2448,1974" href="/multiphase/">
   <area shape="rect" coords="312,1485, 1701,2172" href="/geophysical/">
   <area shape="rect" coords="2823,567, 3948,1692" href="/hpc/">
