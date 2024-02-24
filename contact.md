@@ -8,12 +8,6 @@ sidebar: true
 order: 5
 ---
 
-<!doctype html>
-<!--
- @license
- Copyright 2019 Google LLC. All Rights Reserved.
- SPDX-License-Identifier: Apache-2.0
--->
 <html>
   <head>
     <title>Add Map</title>
