@@ -13,7 +13,7 @@ order: 2
   <area shape="rect" alt="Bubble-type vortex breakdown in the Vogel-Escudier flow" coords="81,0,250,205" href="/vorticity_dominated/">
   <area shape="rect" alt="Salt-finger convection in a double-periodic domain" coords="50,225,273,475" href="/geophysical/">
   <area shape="rect" alt="Rayleigh-Taylor instability" coords="309,50,390,325" href="/multiphase/">
-  <area shape="rect" alt="Rayliegh-Benard convection in non-Boussinesq flow" coords="433,90,625,300" href="/hpc/">
+  <area shape="rect" alt="Rayliegh-Benard convection in non-Boussinesq flow" coords="433,90,625,275" href="/hpc/">
  </map>
 
 ### Research interests and approach:
