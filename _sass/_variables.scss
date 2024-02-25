@@ -67,7 +67,7 @@ $break-point-font-large: 124em;
 // The sidebar width starts adjusting dynamically when the content is at the center of the window.
 // This is the case when the window size has a `min-width` of content area + twice the sidebar (left, right):
 //
-// $break-point-dynamic: $content-width-5 + (2 * $content-margin-5) + (2 * $sidebar-width); // = 98rem
+ $break-point-dynamic: $content-width-5 + (2 * $content-margin-5) + (2 * $sidebar-width); // = 98rem
 //
 // HACK: Since Chrome doesn't treat rem values in media queries correctly,
 // we hard-code the pixel value for the values above.
