@@ -19,3 +19,5 @@ order: 2
 ### Research interests and approach:
 My primary research interest lies in the area of fluid mechanics.
 My primary approach is to analyze a problem through numerical simulation, preferably Direct Numerical Simulation. I use various analytical techniques and theories to analyze the data obtained from these simulations to gain an understanding of the physics of the problem. Specific research interests are detailed below:
+
+imageMapResize();
