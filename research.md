@@ -22,3 +22,5 @@ My primary approach is to analyze a problem through numerical simulation, prefer
 
 [**Computational Fluid Dynamics (CFD) \& High Performance Computing (HPC)**](/hpc/): High order, high fidelity simulations, Large scale parallel computations on multi-core heterogeneous architecture (CPU+GPU), scalability on large clusters.
 
+[**Vortex dominated flows, axial vortex breakdowns, rotating flows & stratified flows**](/vortex_dominated/): Due to ubiquity of vortical flows in rotating systems, their understanding is important from both physics and engineering perspectives. Rotating flows are dominated by axial vortices which suffer from breakdowns that have a profound impact on the dynamics of the flow. Often vortex breakdown is a different topology from the surrounding flow and affects the mixing and material transport adversely. Most of these vortical flows occur in stratified conditions. Stratitification introduces a competition between advection and convection scales in these flows and is responsible for a complex dynamics. I am interested in the scale interaction and effective material transport in these flows.
+
