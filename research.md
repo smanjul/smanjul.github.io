@@ -10,9 +10,9 @@ order: 2
  <img src="/assets/img/Research.png" usemap="#workmap">
 
  <map name="workmap">
-  <area shape="rect" alt="Bubble-type vortex breakdown in the Vogel-Escudier flow" coords="90,0,275,250" href="/vorticity_dominated/">
+  <area shape="rect" alt="Bubble-type vortex breakdown in the Vogel-Escudier flow" coords="90,0,275,200" href="/vorticity_dominated/">
   <area shape="rect" alt="Rayleigh-Taylor instability" coords="375,50,475,375" href="/multiphase/">
-  <area shape="rect" alt="Salt-finger convection in a double-periodic domain" coords="60,275,325,475" href="/geophysical/">
+  <area shape="rect" alt="Salt-finger convection in a double-periodic domain" coords="60,225,325,475" href="/geophysical/">
   <area shape="rect" alt="Rayliegh-Benard convection in non-Boussinesq flow" coords="530,100,745,325" href="/hpc/">
  </map>
 
