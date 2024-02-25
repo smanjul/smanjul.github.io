@@ -1,6 +1,7 @@
 ---
 #layout: welcome
-layout: home
+#layout: home
+layout: about
 title: About
 permalink: /about/
 #more_posts: posts.md
