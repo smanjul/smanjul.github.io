@@ -3,7 +3,7 @@ layout: about
 title: About
 #sitemap: true
 cover: true
-#permalink: /
+permalink: /about/
 #description: >
 ---
 
