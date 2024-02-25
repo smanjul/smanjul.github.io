@@ -3,10 +3,9 @@
 #layout: home
 layout: about
 title: About
-menu: true
-#permalink: /about/
+permalink: /about/
 #more_posts: posts.md
-#sidebar: true
+sidebar: true
 order: 1
 ---
 
