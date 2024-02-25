@@ -50,11 +50,18 @@ $content-padding: 1rem;
 
 $sidebar-width: 21rem;
 
-$break-point-1: 42em;
-$break-point-2: 54em;
-$break-point-3: 64em;
-$break-point-4: 72em;
-$break-point-5: 88em;
+//$break-point-1: 42em;
+//$break-point-2: 54em;
+//$break-point-3: 64em;
+//$break-point-4: 72em;
+//$break-point-5: 88em;
+//$break-point-font-large: 124em;
+
+$break-point-1: 75em;
+$break-point-2: 81em;
+$break-point-3: 90em;
+$break-point-4: 98em;
+$break-point-5: 102em;
 $break-point-font-large: 124em;
 
 // The sidebar width starts adjusting dynamically when the content is at the center of the window.
