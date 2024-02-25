@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-sitemap: true
+#sitemap: true
 cover: true
 #permalink: /
 #description: >
