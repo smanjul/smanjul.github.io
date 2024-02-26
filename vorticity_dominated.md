@@ -8,7 +8,7 @@ sidebar: false
 ---
 
 ### <span style="color: red">Vortex breakdown in concentrated vortices with axial velocity</span>
-//<img src="/assets/img/VE_conclusion_a5.png" width="400" height=auto>
+<!--<img src="/assets/img/VE_conclusion_a5.png" width="400" height=auto>-->
  <video width="300" height=auto autoplay loop>
   <source src="/assets/img/re2200a2_5.mp4" type="video/mp4">
   <source src="/assets/img/re3500a2_5.mp4" type="video/mp4">
