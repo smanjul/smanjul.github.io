@@ -205,15 +205,10 @@ keybase:
   prepend: "https://keybase.io/"
 download:
   name: Download
-  icon: icon-box-add
-  
+  icon: icon-box-add  
 google-scholar:
   Title: Google Scholar
-  Icon:
-    #Simpleicons: google-scholar
-    #Class="ai ai-google-scholar"
-    Class: ai ai-google-scholar
-    #aria-hidden: true
+  Icon: icon-googlescholar
   prepend: 'https://scholar.google.com/citations?'
 
 researchgate:
