@@ -9,9 +9,7 @@ sidebar: false
 
 ### <span style="color: red">Vortex breakdown in concentrated vortices with axial velocity</span>
   <img src="/assets/img/VE_conclusion_a5.png" width="400" height=auto>
-<video width="200" height="320" autoplay>
-  <source src="/assets/img/re2200a2_5.mp4" type="video/mp4">
-</video>
+  /assets/img/re2200a2_5.mp4
 
   
 A schematic of the changes in the flow topology and transitions in the incompressible Vogel-Escudier flow.
