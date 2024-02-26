@@ -12,7 +12,7 @@ sidebar: false
  <video width="300" height=auto autoplay loop>
   <source src="/assets/img/re2200a2_5.mp4" type="video/mp4">
  </video> 
- <video width="300" height=auto autoplay loop>
+ <video width="250" height=auto autoplay loop>
   <source src="/assets/img/re3500a2_5.mp4" type="video/mp4">
  </video>
 
