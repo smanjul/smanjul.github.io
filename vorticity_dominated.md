@@ -8,4 +8,4 @@ sidebar: false
 ---
 
 ### Vortex breakdown in concentrated vortices with axial velocity
- 
+  <img src="/assets/img/VE_conclusion_a5.png"> 
