@@ -11,8 +11,10 @@ sidebar: false
 <!--<img src="/assets/img/VE_conclusion_a5.png" width="400" height=auto>-->
  <video width="300" height=auto autoplay loop>
   <source src="/assets/img/re2200a2_5.mp4" type="video/mp4">
-  <source src="/assets/img/re3500a2_5.mp4" type="video/mp4">
  </video> 
+ <video width="300" height=auto autoplay loop>
+  <source src="/assets/img/re3500a2_5.mp4" type="video/mp4">
+ </video>
 
 A schematic of the changes in the flow topology and transitions in the incompressible Vogel-Escudier flow.
 Box A (red dashed region, also marked in the map) shows the changes in the vortex breakdown bubble and transitions in the flow, along with the phase space associated with the bifurcations, with respect to $$Re$$ for $$\Gamma=2.5$$.
