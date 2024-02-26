@@ -7,7 +7,7 @@ sidebar: false
 #order: 2
 ---
 
-### Vortex breakdown in concentrated vortices with axial velocity
+### <span style="color: red">Vortex breakdown in concentrated vortices with axial velocity</span>
   <img src="/assets/img/VE_conclusion_a5.png"> 
 A schematic of the changes in the flow topology and transitions in the incompressible Vogel-Escudier flow.
 Box A (red dashed region, also marked in the map) shows the changes in the vortex breakdown bubble and transitions in the flow, along with the phase space associated with the bifurcations, with respect to $Re$ for $\Gamma=2.5$.
