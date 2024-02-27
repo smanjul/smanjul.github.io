@@ -9,6 +9,7 @@ order: 5
 ---
 
 ### Dr. Manjul Sharma
+{:.lead} Dr. Manjul Sharma
 Research Faculty
 <br/>
 ECOT 617, Engineering Centre
