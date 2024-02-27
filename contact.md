@@ -10,13 +10,13 @@ order: 5
 
 ### Dr. Manjul Sharma
 Research Faculty
-<br/><br/>
+<br/>
 ECOT 617, Engineering Centre
-<br/><br/>
+<br/>
 Department of Applied Mathematics
-<br/><br/>
+<br/>
 University of Colorado at Boulder (CU Boulder)
-<br/><br/>
+<br/>
 Boulder, Colorado 80309, USA
-<br/><br/>
+<br/>
 Email: manjul.sharma@colorado.edu
