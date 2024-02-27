@@ -18,7 +18,8 @@ order: 2
 
 ### Research interests and approach:
 My primary research interest lies in the area of fluid mechanics.
-My primary approach is to analyze a problem through numerical simulation, preferably Direct Numerical Simulation. I use various analytical techniques and theories to analyze the data obtained from these simulations to gain an understanding of the physics of the problem. Specific research interests are detailed below (*click on each title to learn more about them*):
+My primary approach is to analyze a problem through numerical simulation, preferably Direct Numerical Simulation. I use various analytical techniques and theories to analyze the data obtained from these simulations to gain an understanding of the physics of the problem. Specific research interests are detailed below.
+(*click on each title to learn more about them*)
 
 [**Computational Fluid Dynamics (CFD) & High Performance Computing (HPC)**](/hpc/): High order, high fidelity simulations, Large scale parallel computations on multi-core heterogeneous architecture (CPU+GPU), scalability on large clusters.
 
