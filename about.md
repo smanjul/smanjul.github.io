@@ -11,6 +11,7 @@ order: 1
 
     A bit about myself
 {:.faded}
+I use numerical simulations to study fluid flows. My research interests include turbulent flows, convective flows ranging from engineering to geophysical flows, and high-performance computing. Have a look at my [research](/research/) to learn more about it. 
 
 Since August 2021, I have been a Research Faculty at the Department of [Applied Mathematics at CU Boulder](https://www.colorado.edu/amath/){:target="_blank"} (University of Colorado at Boulder). Here, I am working with Prof. Keith Julien in collaboration with Prof. Edgar Knobloch (Physics Department, UC Berkeley) and Prof. Chang Liu (UConn).
 
