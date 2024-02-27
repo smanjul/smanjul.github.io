@@ -31,6 +31,9 @@
 .icon-library:before {
   content: "\e921";
 }
+.icon-googlescholar:before {
+  content: "\e900";
+}
 .icon-phone:before {
   content: "\e942";
 }
