@@ -2,7 +2,7 @@
 #layout: welcome
 #layout: home
 layout: about
-title: About
+#title: About
 permalink: /about/
 #more_posts: posts.md
 sidebar: true
