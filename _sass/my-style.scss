@@ -66,9 +66,10 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: 600;
 }
 
-// change color of h3 - h6 to pitch black
+// change color of h2 - h6 to red (previous color was pitch black)
 h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
-    color: black;
+    //color: black;
+    color: rgb(213,0,0)
 }
 
 // change color of h1 and homepage headers to red (commented code is for blue)
