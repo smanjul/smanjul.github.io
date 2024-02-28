@@ -41,7 +41,7 @@ Department of Aerospace Enggineering, IIT Madras, Chennai, India
 * **Project Officer**    (Nov 2018 - Oct 2020)
   <br/>
   Department of Aerospace Engineering, IIT Madras, Chennai, India
-* * **Project Associate**    (Nov 2009 - Dec 2011)
+* **Project Associate**    (Nov 2009 - Dec 2011)
   <br/>
   Department of Aerospace Engineering, IIT Madras, Chennai, India
 
