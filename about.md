@@ -52,6 +52,7 @@ Below is a list of past and present collaborators (in the reverse chronology)
 - [Dr. R. Vishnu](https://agnithepower.wordpress.com/welcome/){:target="_blank"} (OIST, Japan)
 
 - [Prof. Vinod Narayanan](https://iitgn.ac.in/faculty/me/16-vinod){:target="_blank"} (IIT Gandhinagar)
+- [Prof. T. Jayachandran](http://www.ae.iitm.ac.in/faculty/){:target="_blank"} (IIT Madras)
 - [Prof. Manikandan Mathur](https://sites.google.com/site/mathur2m/home){:target="_blank"} (IIT Madras)
 - [Prof. A. Sameen](https://home.iitm.ac.in/sameen/){:target="_blank"} (IIT Madras)
 
