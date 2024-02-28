@@ -17,7 +17,7 @@ Have a look at my [research](/research/) to learn more about it.
 
 Since August 2021, I have been a Research Faculty at the Department of [Applied Mathematics at CU Boulder](https://www.colorado.edu/amath/){:target="_blank"} (University of Colorado at Boulder). Here, I am working with Prof. Keith Julien in collaboration with Prof. Edgar Knobloch (Physics Department, UC Berkeley) and Prof. Chang Liu (UConn).
 
-From 2020 to July 2021, I was a Post-doctoral researcher in the Department of Aerospace Engineering at IIT Madras (Indian Institute of Technology Madras, Chennai, India).
+From 2020 to Mid-August 2021, I was a Post-doctoral researcher in the Department of Aerospace Engineering at IIT Madras (Indian Institute of Technology Madras, Chennai, India).
 
 Before that, I was a Project Officer in the Department of Aerospace Engineering at IIT Madras.
 
