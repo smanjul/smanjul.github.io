@@ -26,4 +26,4 @@ The left movie shows the axisymmetric vortex breakdown at a moderate Reynolds nu
 The right movie shows an unsteady, non-axisymmetric vortex breakdown at the Reynolds number of $$Re=3500$$. The breakdown bubble is made visible by the iso-surface of zero axial velocity. The flow supports rotating azimuthal waves of wavenumber $$k=5$$, which is shown by the contours of the axial velocity in an $$rz$$ plane.
 <br/>
 * **Vortex breakdown in incompressible, stratified Vogel-Escudier flow**
-<img src="/assets/img/heated_VE_regimes" width="400" height=auto>
+<img src="/assets/img/heated_VE_regimes.jpg" width="400" height=auto>
