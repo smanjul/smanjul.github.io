@@ -25,11 +25,10 @@ I obtained my Ph.D. in 2020 under the supervision of [Prof. A. Sameen](https://h
 
 ## Education and research experience
 ### PhD (2020)
-    Department of Aerospace Enggineering, IIT Madras, Chennai, India
-    Thesis title: *Direct numerical simulation of axial vortex breakdown*
+Department of Aerospace Enggineering, IIT Madras, Chennai, India
+**Thesis title**: *Direct numerical simulation of axial vortex breakdown*
 
 ## Collaborations
-
 Below is a list of past and present collaborators (in the reverse chronology)
 
 - [Prof. Chang Liu](https://me.engr.uconn.edu/blog/faculty/liu-chang/){:target="_blank"} (University of Connecticut, Connecticut)
