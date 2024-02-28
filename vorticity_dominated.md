@@ -27,3 +27,5 @@ The right movie shows an unsteady, non-axisymmetric vortex breakdown at the Reyn
 <br/>
 * **Vortex breakdown in incompressible, stratified Vogel-Escudier flow**
 <img src="/assets/img/heated_VE_regimes.jpg" width="400" height=auto>
+<br/>
+The energy content associated with the velocity fields in the $$r − z$$ plane $$(\langle E^{2D}\rangle)$$ and out-of-the-plane (\langle E^{\theta}\rangle) shows various regimes of the flow, namely: rotation dominated (RD) and convection dominated (CD) regimes. There is also a transitional regime where both energies are comparable.
