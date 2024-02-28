@@ -32,16 +32,16 @@ Department of Aerospace Enggineering, IIT Madras, Chennai, India
 
 <br/>
 ## Research experience
-* **Research faculty**  |   (Aug 2021 - Present)
+* **Research faculty**     (Aug 2021 - Present)
   <br/>
   Department of Applied Mathematics, CU Boulder, Boulder, CO, USA
-* **Postdoctoral Fellow**  |  (Nov 2020 - Aug 2021)
+* **Postdoctoral Fellow**    (Nov 2020 - Aug 2021)
   <br/>
   Department of Aerospace Engineering, IIT Madras, Chennai, India
-* **Project Officer**  |  (Nov 2018 - Oct 2020)
+* **Project Officer**    (Nov 2018 - Oct 2020)
   <br/>
   Department of Aerospace Engineering, IIT Madras, Chennai, India
-* **Project Associate**  |  (Nov 2009 - Dec 2011)
+* **Project Associate**    (Nov 2009 - Dec 2011)
   <br/>
   Department of Aerospace Engineering, IIT Madras, Chennai, India
 
