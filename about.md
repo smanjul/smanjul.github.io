@@ -26,6 +26,7 @@ I obtained my Ph.D. in 2020 under the supervision of [Prof. A. Sameen](https://h
 ## Education and research experience
 ### PhD (2020)
 Department of Aerospace Enggineering, IIT Madras, Chennai, India
+<br/>
 **Thesis title**: *Direct numerical simulation of axial vortex breakdown*
 
 ## Collaborations
