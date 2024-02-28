@@ -32,10 +32,10 @@ Department of Aerospace Enggineering, IIT Madras, Chennai, India
 
 <br/>
 ## Research experience
-**Research faculty**     (Aug 2021 - Present)
-Department of Applied Mathematics, CU Boulder, Boulder, CO, USA
-<br/>
-**Thesis title**: *Direct numerical simulation of axial vortex breakdown*
+* **Research faculty**     (Aug 2021 - Present)
+  Department of Applied Mathematics, CU Boulder, Boulder, CO, USA
+* **Postdoctoral Fellow**    (Nov 2020 - Aug 2021)
+  Department of Aerospace Engineering, IIT Madras, Chennai, India
 
 <br/>
 ## Collaborations
