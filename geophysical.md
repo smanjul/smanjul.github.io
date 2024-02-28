@@ -7,4 +7,4 @@ sidebar: false
 #order: 2
 ---
 
-## Details coming soon ...
+**Details coming soon ...**
