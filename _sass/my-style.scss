@@ -40,12 +40,14 @@
 //     overflow: hidden;
 }
 
-//// main text font size
-//p {
-//    font-size: 1.05rem;
-//    line-height: 2.1rem;
-//}
-//
+// main text font size
+p {
+    font-size: .9rem;
+    line-height: 2.1rem;
+    //font-size: 1.05rem;
+    //line-height: 2.1rem;
+}
+
 ////lead text font size
 //p.lead {
 //    font-size: 1.25rem;
@@ -94,16 +96,16 @@ h1, .h1, .homeheader {
 //    color: white;
 //}
 //
-////make hyperlinks blue for v9
-//.content a:not(.btn) {
-//    color: rgb(1,92,171);
-//}
-//
-////reduce weight of hyperlink underline
-//// hy-push-state a {
-////     border-bottom: 0.0625rem solid;
-//// }
-//
+//make hyperlinks blue for v9
+.content a:not(.btn) {
+    color: rgb(1,92,171);
+}
+
+//reduce weight of hyperlink underline
+// hy-push-state a {
+//     border-bottom: 0.0625rem solid;
+// }
+
 ////give menu items regular weight for v9
 //html {
 //    --font-weight-heading: 600;
