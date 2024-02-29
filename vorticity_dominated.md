@@ -31,8 +31,9 @@ The right movie shows an unsteady, non-axisymmetric vortex breakdown at the Reyn
 The energy content associated with the velocity fields in the $$r − z$$ plane $$(\langle E^{2D}\rangle)$$ and out-of-the-plane $$(\langle E^{\theta}\rangle)$$ shows various regimes of the flow, namely: rotation dominated (RD) and convection dominated (CD) regimes. There is also a transitional regime where both energies are comparable.
 <br/>
 * **Vortex breakdown in the presence of small compressibility**
+<br/>
 Details coming soon ...
 <br/>
 * **Vortex breakdown in rarefied conditions**
+<br/>
 Details coming soon ...
-
