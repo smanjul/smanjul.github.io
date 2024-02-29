@@ -26,12 +26,12 @@
 .icon-menu:before {
     color: rgb(150,150,150);
 }
-//
+
 ////justify text
 // .text-justify {
 //   text-align: justify;
 // }
-//
+
 //sidebar logo size
 .sidebar-about .avatar {
     width: 10rem;
@@ -39,7 +39,7 @@
 //     border-radius: 100%;
 //     overflow: hidden;
 }
-//
+
 //// main text font size
 //p {
 //    font-size: 1.05rem;
@@ -60,18 +60,18 @@
 //.sidebar-nav-item {
 //    font-size: 1rem;
 //}
-//
+
 // reduce top margin and weight of headings
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin-top: 0; 
     font-weight: 600;
 }
-//
-//// change color of h2 - h6 to red (previous color was pitch black)
-//h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
-//    //color: black;
-//    color: rgb(213,0,0)
-//}
+
+// change color of h2 - h6 to red (previous color was pitch black)
+h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
+    //color: black;
+    color: rgb(213,0,0)
+}
 //
 // change color of h1 and homepage headers to red (commented code is for blue)
 h1, .h1, .homeheader {
