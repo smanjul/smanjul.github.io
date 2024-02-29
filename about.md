@@ -17,7 +17,7 @@ Have a look at my [research](/research/) to learn more about it.
 
 Since August 2021, I have been a Research Faculty at the Department of [Applied Mathematics at CU Boulder](https://www.colorado.edu/amath/){:target="_blank"} (University of Colorado at Boulder). Here, I am working with Prof. Keith Julien in collaboration with Prof. Edgar Knobloch (Physics Department, UC Berkeley) and Prof. Chang Liu (UConn).
 
-From 2020 to Mid-August 2021, I was a Post-doctoral researcher in the Department of Aerospace Engineering at IIT Madras (Indian Institute of Technology Madras, Chennai, India).
+From November 2020 to Mid-August 2021, I was a Post-doctoral researcher in the Department of Aerospace Engineering at IIT Madras (Indian Institute of Technology Madras, Chennai, India).
 
 Before that, I was a Project Officer in the Department of Aerospace Engineering at IIT Madras.
 
@@ -25,10 +25,10 @@ I obtained my Ph.D. in 2020 under the supervision of [Prof. A. Sameen](https://h
 
 <br/>
 ## Education
-**PhD (2020)**
-Department of Aerospace Enggineering, IIT Madras, Chennai, India
+* **PhD** Department of Aerospace Engineering, IIT Madras, Chennai, India
 <br/>
 **Thesis title**: *Direct numerical simulation of axial vortex breakdown*
+* **MS** Department of Aerospace Engineering, IIT Madras, Chennai, India
 
 <br/>
 ## Research experience
