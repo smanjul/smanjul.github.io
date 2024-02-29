@@ -41,7 +41,7 @@ author:
   name: Manjul Sharma
   email: manjul.sharma@colorado.edu
   # # Used by `jekyll-seo-tag`:
-  #twitter: tseknet
+  #twitter: 
   #rss: true
 
 share-links-active:
@@ -145,7 +145,7 @@ google_analytics: G-RSVQ20P25M
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
-#tinyletter: TsekNet
+#tinyletter: <tinyletter>
 
 
 ########################################################################################################################
@@ -286,7 +286,7 @@ plugins:
 
 # Used for twitter cards
 ##twitter:
-##  username:  tseknet
+##  username:  <username>
 
 # Used for facebook open graph
 # facebook:
