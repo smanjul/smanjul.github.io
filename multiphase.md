@@ -61,7 +61,7 @@ sidebar: false
   <!--<div class="top-left">Top Left</div>-->
   <!--<div class="top-right">Top Right</div>-->
   <!--<div class="bottom-right">Bottom Right</div>-->
-  <div class="Details coming soon ...">Centered</div>
+  <div class="centered">Details coming soon ...</div>
 </div>
 
 </body>
