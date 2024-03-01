@@ -8,4 +8,13 @@ sidebar: false
 ---
 
 **Details coming soon ...**
-<img src="/assets/img/Mount_Sinabung_Indonesia.jpg" width="300" height=auto opacity=0.5>
+<!--<img src="/assets/img/Mount_Sinabung_Indonesia.jpg" width="300" height=auto>-->
+<style>
+img {
+  opacity: 0.5;
+}
+</style>
+
+<body>
+  <img src="/assets/img/Mount_Sinabung_Indonesia.jpg" width="400" height=auto>
+</body>
