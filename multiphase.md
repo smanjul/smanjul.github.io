@@ -47,7 +47,7 @@ sidebar: false
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 30px;
+  font-size: 33px;
 }
 </style>
 </head>
