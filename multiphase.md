@@ -57,7 +57,7 @@ sidebar: false
 <!--<p>How to place text over an image:</p>-->
 
 <div class="container">
-  <img src="/assets/img/Mount_Sinabung_Indonesia.jpg" style="width:100%; opacity:0.5">
+  <img src="/assets/img/Mount_Sinabung_Indonesia.jpg" style="width:100%; opacity:0.33">
   <!--<div class="bottom-left">Bottom Left</div>-->
   <!--<div class="top-left">Top Left</div>-->
   <!--<div class="top-right">Top Right</div>-->
