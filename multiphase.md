@@ -8,3 +8,4 @@ sidebar: false
 ---
 
 **Details coming soon ...**
+<img src="/assets/img/Mount_Sinabung_Indonesia.jpg" width="300" height=auto>
