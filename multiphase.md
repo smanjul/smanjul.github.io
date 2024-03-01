@@ -11,10 +11,10 @@ sidebar: false
 <!--<img src="/assets/img/Mount_Sinabung_Indonesia.jpg" width="300" height=auto>-->
 <style>
 img {
-  opacity: 0.5;
+  opacity: 0.3;
 }
 </style>
 
 <body>
-  <img src="/assets/img/Mount_Sinabung_Indonesia.jpg" width="400" height=auto>
+  <img src="/assets/img/Mount_Sinabung_Indonesia.jpg" width="600" height=auto>
 </body>
