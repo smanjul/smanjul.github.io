@@ -78,14 +78,14 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 // change color of h1 and homepage headers to red (commented code is for blue)
 h1, .h1 {
 //    //color: rgb(1,92,171);
-    color: rgb(213,0,0);
+    //color: rgb(213,0,0);
+    color: white;
 }
 
 // change color of h1 and homepage headers to red (commented code is for blue)
 h1, .homeheader {
 //    //color: rgb(1,92,171);
-    //color: rgb(213,0,0);
-    color: white;
+    color: rgb(213,0,0);
 }
 //
 ////turn body text black
