@@ -15,7 +15,7 @@ sidebar: false
 .container {
   position: relative;
   text-align: center;
-  color: white;
+  color: black;
 }
 
 .bottom-left {
