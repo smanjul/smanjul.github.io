@@ -11,7 +11,7 @@ order: 3
 [comment]: <> Click on these icons for the paper <img src="images/file-cloud-download.png"> to download pdf, or <img src="images/media.png"> for media coverage.
 ## Journal Publications
 
-* [C. Liu, **Manjul Sharma**, K. Julien, E. Knobloch. Fixed-flux Rayleigh–Bénard convection in doubly periodic domains: generation of large-scale shear. *J. Fluid Mech.*, Cambridge University Press, 979:A19, 2024.](https://doi.org/10.1017/jfm.2023.1057){:target="_blank"}
+* C. Liu, **Manjul Sharma**, K. Julien, E. Knobloch. [Fixed-flux Rayleigh–Bénard convection in doubly periodic domains: generation of large-scale shear]](https://doi.org/10.1017/jfm.2023.1057){:target="_blank"}. *J. Fluid Mech.*, Cambridge University Press, 979:A19, 2024.
 
 * [**Manjul Sharma** *et al.* DNS of buoyancy-driven flows using EDAC formulation solved by high-order method. *Comp. Fluids*, 265:105997, 2023.](https://doi.org/10.1016/j.compfluid.2023.105997){:target="_blank"}
 
