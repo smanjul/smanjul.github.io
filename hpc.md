@@ -19,6 +19,15 @@ Over the years I have developed a few Navier-Stokes solvers to suit my research.
 
 
 - **FTLE3D**: A Fortran90 program to compute the three-dimensional Finite Time Lyapunov Exponent from raw velocity data.
+<div class="row">
+  <div class="col-md-4" markdown="1">
+  <!-- ![Alt Text](../img/folder/blah.jpg) -->
+  <img src="/assets/img/TG_vorticity.png" width="200" height=auto>
+  </div>
+  <div class="col-md-8" markdown="1">
+  **CDS3D**: A high-order, high fidelity solver for compressible Navier-Stokes equations in generalized curvilinear coordinates. The code uses a high-order compact difference scheme for spatial discretization with filtering operators.
+  </div>
+</div>
 
 <div class="row">
   <div class="col-md-4" markdown="1">
