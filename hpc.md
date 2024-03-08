@@ -22,7 +22,7 @@ Over the years I have developed a few Navier-Stokes solvers to suit my research.
 <div class="row">
   <div class="col-md-4" markdown="1">
   <!-- ![Alt Text](../img/folder/blah.jpg) -->
-  <img src="/assets/img/TG_vorticity.png" width="200" height=auto>
+  <img src="/assets/img/TG_vorticity.png" width="175" height=auto>
   </div>
   <div class="col-md-8" markdown="1">
   **CDS3D**: A high-order, high fidelity solver for compressible Navier-Stokes equations in generalized curvilinear coordinates. The code uses a high-order compact difference scheme for spatial discretization with filtering operators.
