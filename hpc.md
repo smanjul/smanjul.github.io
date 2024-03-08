@@ -21,11 +21,11 @@ Over the years I have developed a few Navier-Stokes solvers to suit my research.
 - **FTLE3D**: A Fortran90 program to compute the three-dimensional Finite Time Lyapunov Exponent from raw velocity data.
 
 <div class="row">
-  <div class="col-md-8" markdown="1">
-    <!-- ![Alt Text](../img/folder/blah.jpg) -->
-    <img height="600px" class="center-block" src="assets/img/VEflow.png">
-  </div>
   <div class="col-md-4" markdown="1">
-    **VEflow**: An incompressible Navier-Stokes solver in the cylindrical coordinates written in Fortran90. The solver employs fractional-step algorithm and uses central-difference scheme on a fully staggered grid.
+  <!-- ![Alt Text](../img/folder/blah.jpg) -->
+  <img src="/assets/img/VEflow.png" width="200" height=auto>
+  </div>
+  <div class="col-md-8" markdown="1">
+  **VEflow**: An incompressible Navier-Stokes solver in the cylindrical coordinates written in Fortran90. The solver employs fractional-step algorithm and uses central-difference scheme on a fully staggered grid.
   </div>
 </div>
