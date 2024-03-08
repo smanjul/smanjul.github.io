@@ -19,11 +19,13 @@ order: 3
 * **Manjul Sharma** and A. Sameen. [On the correlation between vortex breakdown bubble and planar helicity in Vogel-Escudier flow](https://doi.org/10.1017/jfm.2020.43){:target="_blank"}. *J. Fluid Mech.*, Cambridge University Press, 888:A6, 2020. 
 * [**Manjul Sharma** and A. Sameen. Axisymmetric vortex breakdown: a barrier to mixing. *Phys. Scr.*, IOP Publishing, 94(5), 054005, 2019.](https://doi.org/10.1088/1402-4896/ab0097){:target="_blank"}
 
+<br/>
 ## Conference Proceedings
 
 * S. N. Dhurandhar, V. Mohan, **Manjul Sharma**, and A. Sameen. [Effect of rarefaction on axial vortex using direct simulation
 Monte Carlo](https://doi.org/10.1063/5.0187617){:target="_blank"}. *AIP Conf. Proc.* 2996, 080016, 2024.
 
+<br/>
 ## Conferences
 
 * C. Liu, **Manjul Sharma**, K. Julien, E. Knobloch, Fixed-flux Rayleigh-Benard convection in doubly-periodic domains, *76th Annual Meeting of the American Physical Society Division of Fluid Mechanics (APS-DFD)*, Washington DC, USA, 2023.
