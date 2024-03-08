@@ -42,7 +42,7 @@ Over the years I have developed a few Navier-Stokes solvers to suit my research.
 <div class="row">
   <div class="col-md-4" markdown="1">
   <!-- ![Alt Text](../img/folder/blah.jpg) -->
-  <img src="/assets/img/ftle.png" width="50" height=auto>
+  <img src="/assets/img/ftle.png" width="75" height=auto>
   </div>
   <div class="col-md-8" markdown="1">
   **FTLE3D**: A Fortran90 program to compute the three-dimensional Finite Time Lyapunov Exponent from raw velocity data.
