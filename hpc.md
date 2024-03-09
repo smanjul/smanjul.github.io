@@ -9,6 +9,8 @@ sidebar: false
 
 Over the years I have developed a few Navier-Stokes solvers to suit my research.
 <br/>
+<br/>
+
 <div class="row">
   <div class="col-md-4" markdown="1">
   <!-- ![Alt Text](../img/folder/blah.jpg) -->
@@ -20,6 +22,7 @@ Over the years I have developed a few Navier-Stokes solvers to suit my research.
 </div>
 
 <br/>
+
 <div class="row">
   <div class="col-md-4" markdown="1">
   <!-- ![Alt Text](../img/folder/blah.jpg) -->
@@ -31,6 +34,7 @@ Over the years I have developed a few Navier-Stokes solvers to suit my research.
 </div>
 
 <br/>
+
 <div class="row">
   <div class="col-md-4" markdown="1">
   <!-- ![Alt Text](../img/folder/blah.jpg) -->
@@ -42,6 +46,7 @@ Over the years I have developed a few Navier-Stokes solvers to suit my research.
 </div>
 
 <br/>
+
 <div class="row">
   <div class="col-md-4" markdown="1">
   <!-- ![Alt Text](../img/folder/blah.jpg) -->
