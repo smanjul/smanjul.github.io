@@ -7,7 +7,7 @@ sidebar: false
 #order: 2
 ---
 
-**Salt finger convection in oceans**
+### Salt finger convection in ocean
 <!--<!DOCTYPE html>-->
 <html>
 <head>
