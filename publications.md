@@ -17,7 +17,7 @@ order: 3
 * R. Vishnu, **Manjul Sharma**, and A. Sameen. [Effect of heating on topology of vortex breakdown in Vogel-Escudier flow](https://doi.org/10.1063/5.0065134){:target="_blank"}. *Phys. Fluids*, AIP Publishing, 33(10), 107111, 2021 <span style="color: red">**(Editor’s Pick)**</span>.
 * **Manjul Sharma** and A. Sameen. [Synopsis of Vogel-Escudier flow](https://doi.org/10.1063/5.0053847){:target="_blank"}. *Phys. Fluids*, AIP Publishing, 33(6), 064105, 2021.
 * **Manjul Sharma** and A. Sameen. [On the correlation between vortex breakdown bubble and planar helicity in Vogel-Escudier flow](https://doi.org/10.1017/jfm.2020.43){:target="_blank"}. *J. Fluid Mech.*, Cambridge University Press, 888:A6, 2020. 
-* [**Manjul Sharma** and A. Sameen. Axisymmetric vortex breakdown: a barrier to mixing. *Phys. Scr.*, IOP Publishing, 94(5), 054005, 2019.](https://doi.org/10.1088/1402-4896/ab0097){:target="_blank"}
+* **Manjul Sharma** and A. Sameen. [Axisymmetric vortex breakdown: a barrier to mixing. *Phys. Scr.*, IOP Publishing, 94(5), 054005, 2019.](https://doi.org/10.1088/1402-4896/ab0097){:target="_blank"}
 
 <br/>
 ## Conference Proceedings
