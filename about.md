@@ -15,9 +15,9 @@ order: 1
 I use numerical simulations to study fluid flows. My research interests include turbulent flows, convective flows ranging from engineering to geophysical flows, and high-performance computing. I am interested in building computational frameworks for science and engineering problems.
 Have a look at my [research](/research/) to learn more about it. 
 
-Since August 2021, I have been a Research Faculty at the Department of [Applied Mathematics at CU Boulder](https://www.colorado.edu/amath/){:target="_blank"} (University of Colorado at Boulder). Here, I am working with Prof. Keith Julien in collaboration with Prof. Edgar Knobloch (Physics Department, UC Berkeley) and Prof. Chang Liu (UConn).
+Since August 2021, I have been a Research Faculty at the Department of [Applied Mathematics at CU Boulder](https://www.colorado.edu/amath/){:target="_blank"} (University of Colorado at Boulder). Here, I am working with [Prof. Keith Julien](https://www.colorado.edu/amath/keith-julien-0){:target="_blank"} in collaboration with [Prof. Edgar Knobloch](https://physics.berkeley.edu/people/faculty/edgar-knobloch){:target="_blank"} (Physics Department, UC Berkeley) and [Prof. Chang Liu](https://changliulab.engineering.uconn.edu/){:target="_blank"} (UConn).
 
-From November 2020 to Mid-August 2021, I was a Post-doctoral researcher in the Department of Aerospace Engineering at IIT Madras (Indian Institute of Technology Madras, Chennai, India).
+From November 2020 to mid-August 2021, I was a Post-doctoral researcher in the Department of Aerospace Engineering at IIT Madras (Indian Institute of Technology Madras, Chennai, India).
 
 Before that, I was a Project Officer in the Department of Aerospace Engineering at IIT Madras.
 
