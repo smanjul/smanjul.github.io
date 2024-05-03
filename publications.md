@@ -11,7 +11,7 @@ order: 3
 [comment]: <> Click on these icons for the paper <img src="images/file-cloud-download.png"> to download pdf, or <img src="images/media.png"> for media coverage.
 ## Journal Publications
 
-* Shesh N. Dhurandhar, **Manjul Sharma**, Vishnu Mohan, A. Sameen. [Vortex Breakdown in the small Mach number regimes](https://doi.org/10.1088/1402-4896/ad4061){:target="_blank"}. *Phys. Scr.*, IOP Publishing (Accepted), 2024.
+* Shesh N. Dhurandhar, **Manjul Sharma**, Vishnu Mohan, A. Sameen. [Vortex Breakdown in the small Mach number regimes](https://doi.org/10.1088/1402-4896/ad4061){:target="_blank"}. *Phys. Scr.*, IOP Publishing, 99(6), 065007, 2024.
 * C. Liu, **Manjul Sharma**, K. Julien, E. Knobloch. [Fixed-flux Rayleigh–Bénard convection in doubly periodic domains: generation of large-scale shear](https://doi.org/10.1017/jfm.2023.1057){:target="_blank"}. *J. Fluid Mech.*, Cambridge University Press, 979:A19, 2024.
 * **Manjul Sharma** *et al.* [DNS of buoyancy-driven flows using EDAC formulation solved by high-order method](https://doi.org/10.1016/j.compfluid.2023.105997){:target="_blank"}. *Comp. Fluids*, 265:105997, 2023.
 * **Manjul Sharma** *et al.*. [Near-wall vortical structures in domains with and without curved surfaces](https://doi.org/10.1098/rsta.2022.0136){:target="_blank"}. *Phil. Trans. R. Soc. A*, Royal Society Publishing, 381 (2246), 20220136, 2023 <span style="color: red">**(Invited)**</span>.
@@ -19,6 +19,7 @@ order: 3
 * **Manjul Sharma** and A. Sameen. [Synopsis of Vogel-Escudier flow](https://doi.org/10.1063/5.0053847){:target="_blank"}. *Phys. Fluids*, AIP Publishing, 33(6), 064105, 2021.
 * **Manjul Sharma** and A. Sameen. [On the correlation between vortex breakdown bubble and planar helicity in Vogel-Escudier flow](https://doi.org/10.1017/jfm.2020.43){:target="_blank"}. *J. Fluid Mech.*, Cambridge University Press, 888:A6, 2020. 
 * **Manjul Sharma** and A. Sameen. [Axisymmetric vortex breakdown: a barrier to mixing](https://doi.org/10.1088/1402-4896/ab0097){:target="_blank"}. *Phys. Scr.*, IOP Publishing, 94(5), 054005, 2019.
+
 <br/>
 ## Conference Proceedings
 
