@@ -29,7 +29,7 @@ Over the years I have developed a few Navier-Stokes solvers to suit my research.
   <img src="/assets/img/NB_RBC.png" width="165" height=auto>
   </div>
   <div class="col-md-8" markdown="1">
-  **DENSE**: An incompressible Navier-Stokes solver in the generalized curvilinear coordinates. InCurvCDS uses a high-order compact difference scheme and filtering operators. It can simulate flow problems with and without thermal stratification in complex domains using body-fitted grids. The code is written in modern Fortran using derived data types to keep it generic. It is further enhanced to simulate the Non-Boussinesq flows. Recently, the solver has been extended to simulate the multiphase flows.
+  **DENSE**: An incompressible Navier-Stokes solver in the generalized curvilinear coordinates. DENSE uses a high-order compact difference scheme and filtering operators. It can simulate flow problems with and without thermal stratification in complex domains using body-fitted grids. The code is written in modern Fortran using derived data types to keep it generic. It is further enhanced to simulate the Non-Boussinesq flows. Recently, the solver has been extended to simulate the multiphase flows.
   </div>
 </div>
 
