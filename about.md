@@ -21,7 +21,7 @@ From November 2020 to mid-August 2021, I was a Post-doctoral researcher in the D
 
 Before that, I was a Project Officer in the Department of Aerospace Engineering at IIT Madras.
 
-I obtained my Ph.D. in 2020 under the supervision of [Prof. A. Sameen](https://home.iitm.ac.in/sameen/){:target="_blank"} in the Department of Aerospace Engineering, IIT Madras. For my thesis, I studied vortex breakdown in vortices with axial flows.
+I obtained my Ph.D. in 2020 under the supervision of [Prof. A. Sameen](https://home.iitm.ac.in/sameen/){:target="_blank"} in the Department of Aerospace Engineering, IIT Madras. For my thesis, I studied breakdown in vortices with axial flows.
 
 <br/>
 ## Education
