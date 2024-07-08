@@ -48,7 +48,7 @@ I obtained my Ph.D. in 2020 under the supervision of [Prof. A. Sameen](https://h
 Below is a list of past and present collaborators (in the reverse chronology)
 
 - [Prof. Chang Liu](https://me.engr.uconn.edu/blog/faculty/liu-chang/){:target="_blank"} (University of Connecticut, Connecticut)
-- [Prof. Keith Julien](https://www.colorado.edu/amath/keith-julien-0){:target="_blank"} (University of Colorado, Boulder)
+- Prof. Keith Julien (University of Colorado, Boulder)
 - [Prof. Edgar Knobloch](https://physics.berkeley.edu/people/faculty/edgar-knobloch){:target="_blank"} (University of California, Berkeley)
 
 - Dr. Shesh Dhurandhar (IIT Madras)
