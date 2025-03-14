@@ -50,16 +50,16 @@ I obtained my Ph.D. in 2020 under the supervision of [Prof. A. Sameen](https://h
 ## Collaborations
 Below is a list of past and present collaborators (in the reverse chronology)
 
-- [Prof. Chang Liu](https://me.engr.uconn.edu/blog/faculty/liu-chang/){:target="_blank"} (University of Connecticut, Connecticut)
-- Prof. Keith Julien (University of Colorado, Boulder)
-- [Prof. Edgar Knobloch](https://physics.berkeley.edu/people/faculty/edgar-knobloch){:target="_blank"} (University of California, Berkeley)
+- [Prof. Chang Liu](https://me.engr.uconn.edu/blog/faculty/liu-chang/){:target="_blank"} (University of Connecticut, USA)
+- Prof. Keith Julien (University of Colorado, Boulder, USA)
+- [Prof. Edgar Knobloch](https://physics.berkeley.edu/people/faculty/edgar-knobloch){:target="_blank"} (University of California, Berkeley, USA)
 
-- Dr. Shesh Dhurandhar (IIT Madras)
-- [Dr. Vishnu Mohan](https://vishnu-mohan-1993.github.io/){:target="_blank"} (Newcastle University)
+- Dr. Shesh Dhurandhar (IIT Madras, India)
+- [Dr. Vishnu Mohan](https://vishnu-mohan-1993.github.io/){:target="_blank"} (University of Liverpool, UK)
 - [Dr. R. Vishnu](https://agnithepower.wordpress.com/welcome/){:target="_blank"} (OIST, Japan)
 
-[//]: <> (- [Prof. Vinod Narayanan](https://iitgn.ac.in/faculty/me/16-vinod){:target="_blank"} (IIT Gandhinagar))
-- [Prof. T. Jayachandran](http://www.ae.iitm.ac.in/faculty/){:target="_blank"} (IIT Madras)
-- [Prof. Manikandan Mathur](https://sites.google.com/site/mathur2m/home){:target="_blank"} (IIT Madras)
-- [Prof. A. Sameen](https://home.iitm.ac.in/sameen/){:target="_blank"} (IIT Madras)
+[//]: <> (- [Prof. Vinod Narayanan](https://iitgn.ac.in/faculty/me/16-vinod){:target="_blank"} (IIT Gandhinagar, India))
+- [Prof. T. Jayachandran](http://www.ae.iitm.ac.in/faculty/){:target="_blank"} (IIT Madras, India)
+- [Prof. Manikandan Mathur](https://sites.google.com/site/mathur2m/home){:target="_blank"} (IIT Madras, India)
+- [Prof. A. Sameen](https://home.iitm.ac.in/sameen/){:target="_blank"} (IIT Madras, India)
 
