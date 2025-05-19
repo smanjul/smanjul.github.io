@@ -36,7 +36,13 @@ I obtained my Ph.D. in 2020 under the supervision of [Prof. A. Sameen](https://h
 
 <br/>
 ## Research experience
-* **Research faculty**     (Aug 2021 - Present)
+* **Assistant Professor**     (May 2025 - Present)
+  <br/>
+  Department of Mechanical and Aerospace Engg., ECSE, Mahindra University, Hyderabad, India
+* **Project Scientist I**     (Aug 2024 - April 2025)
+  <br/>
+  Department of Aerospace Engineering, IIT Madras, Chennai, India
+* **Research faculty**     (Aug 2021 - Jul 2024)
   <br/>
   Department of Applied Mathematics, CU Boulder, Boulder, CO, USA
 * **Postdoctoral Fellow**    (Nov 2020 - Aug 2021)
