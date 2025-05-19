@@ -37,3 +37,6 @@ Details coming soon ...
 * **Vortex breakdown in rarefied conditions**
 <br/>
 Details coming soon ...
+<br/>
+* **Dynamics in Spherical Couette Flow**
+<!--<img src="/assets/img/bifurcation_SCF.png" width="500" height=auto>-->
