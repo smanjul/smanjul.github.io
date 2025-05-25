@@ -20,7 +20,7 @@ Before this, I was Project Scientist at the Department of Aerospace Engineering,
 
 From Aug 2021 to Jul 2024, I worked as a Research Faculty at the Department of [Applied Mathematics at CU Boulder](https://www.colorado.edu/amath/){:target="_blank"} (University of Colorado at Boulder). There, I was working with Prof. Keith Julien (deceased, April 2024) in collaboration with [Prof. Edgar Knobloch](https://physics.berkeley.edu/people/faculty/edgar-knobloch){:target="_blank"} (Physics Department, UC Berkeley) and [Prof. Chang Liu](https://changliulab.engineering.uconn.edu/){:target="_blank"} (UConn).
 
-From November 2020 to mid-August 2021, I was a Post-doctoral researcher in the Department of Aerospace Engineering at IIT Madras (Indian Institute of Technology Madras, Chennai, India).
+From November 2020 to mid-August 2021, I was a Post-doctoral researcher in the [Department of Aerospace Engineering at IIT Madras](https://ae.iitm.ac.in/){:target="_blank"} (Indian Institute of Technology Madras, Chennai, India).
 
 Before that, I was a Project Officer in the Department of Aerospace Engineering at IIT Madras.
 
