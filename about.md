@@ -15,7 +15,7 @@ order: 1
 I use numerical simulations to study fluid flows. My research interests include turbulent flows, convective flows ranging from engineering to geophysical flows, and high-performance computing. I am interested in building computational frameworks for science and engineering problems.
 Have a look at my [research](/research/) to learn more about it. 
 
-Starting May 2025, I have joined as an assistant professor at the Department of Mechanical and Aerospace Engineering within Ecole Centrale School of Engineering at the Mahindra University, Hyderbad, India.
+Starting May 2025, I have joined as an assistant professor at the [Department of Mechanical and Aerospace Engineering](https://www.mahindrauniversity.edu.in/faculty/manjul-sharma/){:target="_blank"} within Ecole Centrale School of Engineering at the Mahindra University, Hyderbad, India.
 Before this, I was Project Scientist at the Department of Aerospace Engineering, IIT Madras, Chennai, India from Aug 2024 to April 2025.
 
 From Aug 2021 to Jul 2024, I worked as a Research Faculty at the Department of [Applied Mathematics at CU Boulder](https://www.colorado.edu/amath/){:target="_blank"} (University of Colorado at Boulder). There, I was working with Prof. Keith Julien (deceased, April 2024) in collaboration with [Prof. Edgar Knobloch](https://physics.berkeley.edu/people/faculty/edgar-knobloch){:target="_blank"} (Physics Department, UC Berkeley) and [Prof. Chang Liu](https://changliulab.engineering.uconn.edu/){:target="_blank"} (UConn).
