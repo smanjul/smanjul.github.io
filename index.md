@@ -56,6 +56,7 @@ I obtained my Ph.D. in 2020 under the supervision of [Prof. A. Sameen](https://h
 ## Collaborations
 Below is a list of past and present collaborators (in reverse chronological order)
 
+- [Prof. Prahallada J](https://www.mahindrauniversity.edu.in/faculty/prahallada-j/){:target="_blank"} (Mahindra University, India)
 - [Prof. Chang Liu](https://me.engr.uconn.edu/blog/faculty/liu-chang/){:target="_blank"} (University of Connecticut, USA)
 - [Prof. Edgar Knobloch](https://physics.berkeley.edu/people/faculty/edgar-knobloch){:target="_blank"} (University of California, Berkeley, USA)
 
