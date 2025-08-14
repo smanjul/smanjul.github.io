@@ -9,14 +9,16 @@ order: 5
 ---
 
 ### Dr. Manjul Sharma
-Research Faculty
+Assistant Professor
 <br/>
-ECOT 617, Engineering Centre
+Academic Block II
 <br/>
-Department of Applied Mathematics
+Department of Mechanical \& Aerospace Engineering
 <br/>
-University of Colorado at Boulder (CU Boulder)
+Ecole Centrale School of Engineering
 <br/>
-Boulder, Colorado 80309, USA
+University of Mahindra University
 <br/>
-Email: manjul.sharma@colorado.edu
+Hyderabad, Telangana 500043, India
+<br/>
+Email: manjul.sharma@mahindrauniversity.edu.in
