@@ -1,4 +1,3 @@
-pace ---
 #layout: welcome
 layout: home
 title: Contact
