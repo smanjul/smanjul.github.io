@@ -13,7 +13,7 @@ Assistant Professor
 <br/>
 Aerospace Lab, Vineet Nayyar Academic Block
 <br/>
-Department of Mechanical \& Aerospace Engineering
+Department of Mechanical & Aerospace Engineering
 <br/>
 Ecole Centrale School of Engineering
 <br/>
