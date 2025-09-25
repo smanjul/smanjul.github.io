@@ -1,4 +1,4 @@
----
+pace ---
 #layout: welcome
 layout: home
 title: Contact
@@ -11,7 +11,7 @@ order: 5
 ### Dr. Manjul Sharma
 Assistant Professor
 <br/>
-Academic Block II
+Aerospace Lab, Vineet Nayyar Academic Block
 <br/>
 Department of Mechanical \& Aerospace Engineering
 <br/>
