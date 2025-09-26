@@ -7,8 +7,8 @@ sidebar: false
 #order: 2
 ---
 
+<!--
 <!--<!DOCTYPE html>-->
-<!-- The html code below is commented
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
