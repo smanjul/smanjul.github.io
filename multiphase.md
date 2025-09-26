@@ -7,7 +7,6 @@ sidebar: false
 #order: 2
 ---
 
-<!--
 <!--<!DOCTYPE html>-->
 <html>
 <head>
@@ -68,5 +67,4 @@ sidebar: false
 
 </body>
 </html> 
--->
 
