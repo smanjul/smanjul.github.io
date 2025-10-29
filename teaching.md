@@ -7,7 +7,7 @@ permalink: /teaching/
 sidebar: true
 order: 4
 ---
-### At Dept. of Applied Mathematics, CU Boulder
+### At Dept. of Mechanical & Aerospace Engineering, Ecole Centrale School of Engineering, Mahindra University, Hyderabad, India
 * **ME 5104 - Computational Fluid Dynamics \& Programming**, postgraduate course (Fall 2025)
 
 <br/>
