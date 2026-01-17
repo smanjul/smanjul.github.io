@@ -9,6 +9,10 @@ order: 4
 ---
 ### At Dept. of Mechanical & Aerospace Engineering, Ecole Centrale School of Engineering, Mahindra University, Hyderabad, India
 * **ME 5104 - Computational Fluid Dynamics & Programming**, postgraduate course (Fall 2025)
+* **ME 5001 - Turbulent Flows**, postgraduate course (Spring 2026)
+* **ME 5201 - Multiphysics**, postgraduate course (Spring 2026)
+* **ME 5204 - CFD Lab**, postgraduate course (Spring 2026)
+* **ME 2233 - Aerodynamics I (Low speed incompressible flows)**, undergraduate course (Spring 2026)
 
 <br/>
 ### At Dept. of Applied Mathematics, CU Boulder
