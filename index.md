@@ -35,7 +35,7 @@ I obtained my Ph.D. in 2020 under the supervision of [Prof. A. Sameen](https://h
 ## Research experience
 * **Assistant Professor**     (May 2025 - Present)
   <br/>
-  Department of Mechanical and Aerospace Engg., ECSE, Mahindra University, Hyderabad, India
+  Department of Mechanical and Aerospace Engg., ECSoE, Mahindra University, Hyderabad, India
 * **Project Scientist I**     (Aug 2024 - April 2025)
   <br/>
   Department of Aerospace Engineering, IIT Madras, Chennai, India
@@ -62,7 +62,7 @@ Below is a list of past and present collaborators (in reverse chronological orde
 
 - Dr. Shesh Dhurandhar (IIT Madras, India)
 - [Dr. Vishnu Mohan](https://vishnu-mohan-1993.github.io/){:target="_blank"} (University of Liverpool, UK)
-- [Dr. R. Vishnu](https://agnithepower.wordpress.com/welcome/){:target="_blank"} (OIST, Japan)
+- [Dr. R. Vishnu](https://www.srmap.edu.in/faculty/vishnu-ravindran/){:target="_blank"} (SRM, India)
 
 - [Prof. Vinod Narayanan](https://iitgn.ac.in/faculty/me/16-vinod){:target="_blank"} (IIT Gandhinagar, India)
 - [Prof. T. Jayachandran](http://www.ae.iitm.ac.in/faculty/){:target="_blank"} (IIT Madras, India)
