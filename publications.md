@@ -32,6 +32,8 @@ order: 3
 Monte Carlo](https://doi.org/10.1063/5.0187617){:target="_blank"}. *AIP Conf. Proc.* 2996, 080016, 2024.
 
 <br/>
+
+<!---
 ## Conferences
 
 1. C. Liu, **Manjul Sharma**, K. Julien, E. Knobloch, Fixed-flux Rayleigh-Benard convection in doubly-periodic domains, *76th Annual Meeting of the American Physical Society Division of Fluid Mechanics (APS-DFD)*, Washington DC, USA, 2023.
@@ -51,3 +53,4 @@ Monte Carlo](https://doi.org/10.1063/5.0187617){:target="_blank"}. *AIP Conf. Pr
 15. R. Vishnu, **Manjul Sharma**, and A. Sameen, Numerical study on effect of lid rotation on convective heat transfer in Rayleigh-Benard convection, *6th Asian Symposium on Computational Heat Transfer and Fluid Flow (ASCHT)*, IIT Madras, Chennai, India, 2017.
 16. **Manjul Sharma**, A. Sameen, and Manikandan Mathur, Lagrangian coherent structures resulting from three-dimensional axial vortex breakdown, *Turbulent Mixing and Beyond (TMB), 6th International Conference*, ICTP, Trieste, Italy, 2017.
 17. R. Vishnu, **Manjul Sharma**, and A. Sameen, DNS of lid rotating Rayleigh-Benard convection, *Turbulent Mixing and Beyond (TMB), 6th International Conference*, ICTP, Trieste, Italy, 2017.
+-->
