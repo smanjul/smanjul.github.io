@@ -11,7 +11,7 @@ order: 3
 [comment]: <> Click on these icons for the paper <img src="images/file-cloud-download.png"> to download pdf, or <img src="images/media.png"> for media coverage.
 ## Journal Publications
 
-1. S. N. Dhurandhar, **Manjul Sharma**, V. Mohan, and A. Sameen. [Compressibility effects on vortex breakdown in subsonic and supersonic regimes]{https://pubs.aip.org/aip/pof/article-abstract/38/3/036101/3381826/Compressibility-effects-on-vortex-breakdown-in?redirectedFrom=fulltext}. *Phys. Fluids*,38, 036101, 2026 <span style="color: red">**(Featured article)**</span>.
+1. S. N. Dhurandhar, **Manjul Sharma**, V. Mohan, and A. Sameen. [Compressibility effects on vortex breakdown in subsonic and supersonic regimes]{https://pubs.aip.org/aip/pof/article-abstract/38/3/036101/3381826/Compressibility-effects-on-vortex-breakdown-in?redirectedFrom=fulltext}. *Phys. Fluids*, 38, 036101, 2026 <span style="color: red">**(Featured article)**</span>.
 3. K. Srikanth, V. Praveen Kumar, T. Jayachandran, A. Sameen, and **Manjul Sharma**. [On the applicability of the EDAC method to non-Oberbeck–Boussinesq regimes in buoyancy-driven flows](https://doi.org/10.1016/j.compfluid.2025.106835){:target="_blank"}. *Comp. Fluids*, 302, 106835, 2025.
 4. Abishek Sarkar, **Manjul Sharma**, Vinod Narayanan. [Preferential concentration of particles in a decaying isotropic turbulence in the dilute regime](https://doi.org/10.1063/5.0277905){:target="_blank"}. *Phys. Fluids*, AIP Publishing, 37(7), 075191, 2025.
 5. Shesh N. Dhurandhar, Vishnu Mohan, **Manjul Sharma**, and A. Sameen. [Breakdown of continuum in lid-rotating rarefied cavity flow](https://doi.org/10.1103/PhysRevE.111.055108){:target="_blank"}. *Phys. Rev. E*, American Physical Society, 111, 055108, 2025.
